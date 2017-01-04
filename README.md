@@ -6,7 +6,7 @@
 ### How do I get set up? ###
 
 * Summary of set up
-- just clone , and install libraries in requirements.txt (use pip)
-- see example.py 
-- see tests/iucn_tests.py for usage
+ - just clone , and install libraries in requirements.txt (use pip)
+ - see example.py for quick look of use
+ - see tests/iucn_tests.py for tests
 
