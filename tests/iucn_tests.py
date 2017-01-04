@@ -67,7 +67,7 @@ class Test_Search_IUCN(unittest.TestCase):
                                   'map': u'http://maps.iucnredlist.org/map.html?id=178809', 
                                   'page': u'http://www.iucnredlist.org/details/178809/0'}])
         
-        
+##    TODO: answer, how to choose which to dump when there's multiple result in search?
 ##    def test_search_iucn_returning_multiple_result_content(self):
 ##        when(IUCN_Redlist)._find_and_dump('Sus barbatus').thenReturn(pagedumps.MULTIPLE_RESULTS_PAGE)
 ##        iucn = IUCN_Redlist()
